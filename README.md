@@ -6,9 +6,7 @@ A clean, modern, and professional mobile application built with **React Native (
 
 ## 📱 App Interface
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9c83b404-987b-414d-8e9c-3a7f899e869c" width="300" title="Pending Orders Screen" alt="App Screenshot">
-</p>
+![App Screenshot](https://github.com/user-attachments/assets/9c83b404-987b-414d-8e9c-3a7f899e869c)
 
 ---
 
